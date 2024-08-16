@@ -1,4 +1,3 @@
-# mappingtool-UNSDGoals
 # United Nations Sustainable Development Goals Mapping Tool - SDP2024-Group2 
 
 ## About

@@ -82,6 +82,7 @@ Figure 4 - Example of navigation to SQL folder
 - When Workbench opens, make sure your script will run by reconnecting to the server if you were not connected already:
 
 ![image showing how to reconnect to sql server 1/2](readme-images/04-reconnecting-to-sql-server-1-of-2.png)
+
 Figure 5 - Location of Reconnect to Server option in Workbench
 
 ![image showing how to reconnect to sql server 2/2](readme-images/05-reconnecting-to-sql-server-2-of-2.png)

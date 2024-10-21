@@ -290,9 +290,9 @@ module.exports = {
   getUserById,
   getAllProjects,
   createProject,
-  getProjectsTargets, //////
-  getProjectByUser, //////
-  getUsersFromProjects, //////
+  getProjectsTargets,
+  getProjectByUser,
+  getUsersFromProjects,
   getProjectTargetsByProjectId,
   getProjectById,
   deleteProjectById,

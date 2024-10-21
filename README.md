@@ -86,11 +86,13 @@ Figure 4 - Example of navigation to SQL folder
 Figure 5 - Location of Reconnect to Server option in Workbench
 
 ![image showing how to reconnect to sql server 2/2](readme-images/05-reconnecting-to-sql-server-2-of-2.png)
+
 Figure 6 - Connect to Database Screen (Click OK)
 
 - Once that is done run the script (<b>Be Advised</b> - the first line drops the database before recreating it. If you do <b>NOT</b> want to drop an existing <b>mappingtool</b> database but still need to run the file or parts of it, be sure to comment out the first line):
 
 ![image showing how to run the sql script](readme-images/06-running-sql-file.png)
+
 Figure 7 - 
 
 - Ensure you have a user setup that you will use to connect to the database in the next section:
